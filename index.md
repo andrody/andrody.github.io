@@ -4,7 +4,7 @@
 
 ### Kinbox 
 
-[Kinbox](/kinbox)
+[Kinbox](https://www.kinbox.com.br/)
 <img src="images/kinbox1.jpg?raw=true"/>
 
 ---
