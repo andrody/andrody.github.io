@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Kinbox 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Kinbox](/kinbox)
+<img src="images/kinbox1.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GanhoMais](https://www.ganhomais.com.br/)
+<img src="images/ganhomais1.jpg?raw=true"/>
+
+---
+[Formaliza](https://formaliza.netlify.app/user/login)
+<img src="images/formaliza1.jpg?raw=true"/>
 
 ---
 
